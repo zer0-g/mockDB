@@ -1,5 +1,4 @@
-{events:[
- {id:1,title:"hello-world",content:"hello world"},
- {id:2,title:"hello*world",content:"hello world again"},
- {id:12,title:"unknown",content:"hello world...again and again"},
- ]}
+{"events":[
+ {"id" :1, "title" :"hello-world","content" :"hello world"},
+ {"id" :2,"title" :"hello*world","content" :"hello world again"},
+ {"id" :12,"title" :"unknown","content" :"hello world...again and again"},]}
